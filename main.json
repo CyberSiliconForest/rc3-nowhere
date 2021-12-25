@@ -1492,16 +1492,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":60,
          "firstgid":1557,
-         "source":"tiles\/rc3-2021-mullana-ground.tsx"
+         "image":"tiles\/rc3-2021-mullana-background.png",
+         "imageheight":1920,
+         "imagewidth":1920,
+         "margin":0,
+         "name":"rc3-2021-mullana-background",
+         "spacing":0,
+         "tilecount":3600,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":60,
          "firstgid":5157,
-         "source":"tiles\/rc3-2021-mullana-background.tsx"
-        }, 
-        {
-         "firstgid":8757,
-         "source":"tiles\/rc3-2021-mullana-utility.tsx"
+         "image":"tiles\/rc3-2021-mullana-ground.png",
+         "imageheight":1920,
+         "imagewidth":1920,
+         "margin":0,
+         "name":"rc3-2021-mullana-ground",
+         "spacing":0,
+         "tilecount":3600,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

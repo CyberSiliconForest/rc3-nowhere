@@ -5,5 +5,11 @@
   "repository": "git@github.com:Rhahi/silicon-nowhere.git",
   "author": "SiliconForest",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
 }

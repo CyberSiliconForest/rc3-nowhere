@@ -44,6 +44,12 @@
          "id":4,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":16,
@@ -4021,11 +4027,6 @@
                  "id":0,
                  "properties":[
                         {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/lobby"
-                        }, 
-                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0"
@@ -4034,11 +4035,6 @@
                 {
                  "id":1,
                  "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/lobby"
-                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -4049,11 +4045,6 @@
                  "id":2,
                  "properties":[
                         {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/lobby"
-                        }, 
-                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CC0"
@@ -4062,11 +4053,6 @@
                 {
                  "id":3,
                  "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"world:\/\/lobby"
-                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",

@@ -1,0 +1,9 @@
+{
+  "name": "silicon-nowhere",
+  "version": "0.0.1",
+  "main": "http-server",
+  "repository": "git@github.com:Rhahi/silicon-nowhere.git",
+  "author": "SiliconForest",
+  "license": "MIT",
+  "private": true
+}

@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -35,7 +35,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -58,7 +58,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -81,7 +81,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -104,7 +104,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -173,7 +173,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
                 }, 
                 {
                  "name":"silent",
@@ -196,7 +196,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/kve\/"
                 }, 
                 {
                  "name":"silent",
@@ -219,7 +219,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/blog.quendi.moe"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/insecam\/"
                 }, 
                 {
                  "name":"silent",
@@ -1589,27 +1589,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":2,
-         "firstgid":11395,
-         "image":"tiles\/worldExit.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"worldExit",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"CC0"
-                }],
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":8,
-         "firstgid":11399,
+         "firstgid":11395,
          "image":"tiles\/collider.png",
          "imageheight":256,
          "imagewidth":256,

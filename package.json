@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "http-server -p 16962"
+    "start": "http-server -p 16962 -S -C ./snakeoil/cert.pem -K ./snakeoil/key.pem"
   },
   "dependencies": {
     "http-server": "^14.0.0"

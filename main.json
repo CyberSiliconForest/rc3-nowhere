@@ -1499,6 +1499,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-background",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -1512,6 +1518,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-ground",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,

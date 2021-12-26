@@ -308,7 +308,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":".\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -326,7 +326,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":".\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1598,9 +1598,9 @@
          "name":"worldExit",
          "properties":[
                 {
-                 "name":"CC0",
+                 "name":"tilesetCopyright",
                  "type":"string",
-                 "value":""
+                 "value":"CC0"
                 }],
          "spacing":0,
          "tilecount":4,

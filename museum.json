@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/example.com"
+                 "value":"https:\/\/blog.quendi.moe"
                 }],
          "type":"tilelayer",
          "visible":true,

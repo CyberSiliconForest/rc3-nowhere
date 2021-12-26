@@ -13,6 +13,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -31,6 +36,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -49,6 +59,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -67,6 +82,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +105,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +128,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,6 +151,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,6 +174,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,6 +197,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/example.com"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,6 +220,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/blog.quendi.moe"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -188,6 +238,12 @@
          "id":6,
          "name":"silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":32,

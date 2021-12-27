@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/outro\/"
                 }, 
                 {
                  "name":"silent",
@@ -35,7 +35,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/under-construction\/"
                 }, 
                 {
                  "name":"silent",
@@ -58,7 +58,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/under-construction\/"
                 }, 
                 {
                  "name":"silent",
@@ -81,7 +81,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/under-construction\/"
                 }, 
                 {
                  "name":"silent",
@@ -104,7 +104,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/kve\/"
                 }, 
                 {
                  "name":"silent",
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/k-security-programs\/"
                 }, 
                 {
                  "name":"silent",
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/k-builtin-iot\/"
                 }, 
                 {
                  "name":"silent",
@@ -173,7 +173,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cybersiliconforest.github.io\/rc3-nowhere-pages\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/k-home-wrts\/"
                 }, 
                 {
                  "name":"silent",
@@ -196,7 +196,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/kve\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/insecam\/"
                 }, 
                 {
                  "name":"silent",
@@ -219,7 +219,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/insecam\/"
+                 "value":"https:\/\/pages.nowhere.rc3.silicon.moe\/posts\/introduction\/"
                 }, 
                 {
                  "name":"silent",
